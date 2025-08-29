@@ -10,8 +10,8 @@ Em transição de carreira para Análise de Dados, após experiência em lideran
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucarvalho123&repo=controle_custos_produtor
-.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucarvalho123&repo=controle_custos_produtor.github.io&theme=dark)](https://github.com/Lucarvalho123/controle_custos_produtor.github.io)
+
 
 
 ### Linguagens utilizadas
