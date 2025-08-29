@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](A_digital_graphic_banner_introduces_Lu_Carvalho_as.png)
+
 
 # 👋 Olá, eu sou a Lu Carvalho
 
@@ -23,16 +22,17 @@ Tenho experiência em projetos de **e-commerce, agrotecnologia e controle de cus
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucarvalho123&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
 ## 📬 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucrvlh/)  
 - 📧 Email: **luanacarv.ribeiro@email.com**  
 
----
 
-## 👀 Contador de Visitas
-
-![Visitas](https://profile-counter.glitch.me/Lucarvalho123/count.svg)
 
 
 
