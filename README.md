@@ -1,46 +1,38 @@
-<h1 align="center">Ola 👋, eu sou Lu Carvalho</h1>
+<!-- Banner -->
+![Banner](A_digital_graphic_banner_introduces_Lu_Carvalho_as.png)
 
-### ✨ Sobre mim
+# 👋 Olá, eu sou a Lu Carvalho
 
-- 🎯 Em transição de carreira para **Análise de Dados**
-- 📚 Estudante de **Análise de Dados na EBAC**
-- 🌱 Atualmente focada em **Dashboards interativos e análises estatísticas**
-- ☕ Gosto de transformar dados em insights que ajudam na tomada de decisão
+Apaixonada por **análise de dados** e construção de soluções que geram impacto.  
+Tenho experiência em projetos de **e-commerce, agrotecnologia e controle de custos para pequenos produtores**.  
 
+---
 
+## 🚀 Projetos em Destaque
 
-### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucarvalho123&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucarvalho123&repo=controle_custos_produtor&theme=dark)](https://github.com/Lucarvalho123/controle_custos_produtor)
+- 📊 [Controle de Custos do Pequeno Produtor](https://github.com/Lucarvalho123/controle_custos_produtor)  
+- 🛒 [E-commerce Análise](https://github.com/Lucarvalho123/ecommerce_analise)  
 
 
+---
 
+## 📈 Estatísticas
 
-### Linguagens utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucarvalho123&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucarvalho123&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucarvalho123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 📬 Contato
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucrvlh/)  
+- 📧 Email: **luanacarv.ribeiro@email.com**  
 
-### 🛠️ Tecnologias & Ferramentas
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-004C99?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 👀 Contador de Visitas
 
-
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucrvlh/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanacarv.ribeiro@gmail.com)
+![Visitas](https://profile-counter.glitch.me/Lucarvalho123/count.svg)
 
 
 
