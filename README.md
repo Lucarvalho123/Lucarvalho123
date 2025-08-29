@@ -1,7 +1,12 @@
 <h1 align="center">Ola 👋, eu sou Lu Carvalho</h1>
 
-###### Sobre 
-Em transição de carreira para Análise de Dados, após experiência em liderança de equipes e gestão de processos. Atualmente, curso Análise de Dados pela EBAC, onde desenvolvo competências em Python (Pandas, NumPy, Matplotlib, Dash), SQL e Power BI/Looker Studio.
+### ✨ Sobre mim
+
+- 🎯 Em transição de carreira para **Análise de Dados**
+- 📚 Estudante de **Análise de Dados na EBAC**
+- 🌱 Atualmente focada em **Dashboards interativos e análises estatísticas**
+- ☕ Gosto de transformar dados em insights que ajudam na tomada de decisão
+
 
 
 ### Detalhes
@@ -19,9 +24,22 @@ Em transição de carreira para Análise de Dados, após experiência em lideran
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucarvalho123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucrvlh/)
+### 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004C99?style=for-the-badge&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucrvlh/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanacarv.ribeiro@gmail.com)
 
 
 
