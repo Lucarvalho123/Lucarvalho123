@@ -4,8 +4,8 @@
 
 ### ✨ Sobre mim
 
-- 🎯 Em transição de carreira para **Análise de Dados**
-- 📚 Estudante de **Análise de Dados na EBAC**
+- 🎯  **Analista de Dados**
+- 📚 Estudando como a análise de dados pode agregar na cultura regional
 - 🌱 Atualmente focada em **Dashboards interativos e análises estatísticas**
 - ☕ Gosto de transformar dados em insights que ajudam na tomada de decisão
 
