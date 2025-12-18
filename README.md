@@ -6,7 +6,7 @@
 
 - 🎯  **Analista de Dados**
 - 📚 Estudando como a análise de dados pode agregar na cultura regional
-- 🌱 Atualmente focada em **Dashboards interativos e análises estatísticas**
+- 📚Atualmente focada em **Dashboards interativos e análises estatísticas**
 - ☕ Gosto de transformar dados em insights que ajudam na tomada de decisão
 
 
