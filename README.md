@@ -15,7 +15,7 @@
 ## 🚀 Projetos em Destaque
 
 - 📊 [Controle de Custos do Pequeno Produtor](https://github.com/Lucarvalho123/controle_custos_produtor)  
-- 🛒 [E-commerce Análise](https://github.com/Lucarvalho123/ecommerce_analise)  
+- 🛒 [E-commerce Análise](https://github.com/Lucarvalho123/Pocoes_Catalogacao)  
 
 
 ---
